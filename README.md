@@ -1,3 +1,3 @@
 # hello-world
-README
+README:
 Lets Change the world one line at a time.
